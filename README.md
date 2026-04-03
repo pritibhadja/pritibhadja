@@ -3,8 +3,6 @@
 🌱 I’m currently learning python with Data Science
 🍽️ Built a Campus Placement Portal.
 
-# pritibhadja-pritibhadja
-
 ## 📊 Coding Profiles
 
 ### 🏆 LeetCode
