@@ -1,7 +1,7 @@
 ## Hi there , I'm Priti Bhadja👋
 
 🌱 I’m currently learning python with Data Science
-🍽️ Built a Food Catering Website.
+🍽️ Built a Campus Placement Portal.
 
 # pritibhadja-pritibhadja
 
